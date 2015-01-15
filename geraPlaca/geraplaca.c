@@ -1,3 +1,9 @@
+/*
+real    0m30.988s
+user    0m28.464s
+sys 0m1.864s
+*/
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[]){
